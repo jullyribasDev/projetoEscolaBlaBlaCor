@@ -1,0 +1,2 @@
+# projetoEscolaBlaBlaCor
+Projeto Escola BláBláCor
